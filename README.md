@@ -14,7 +14,8 @@ A simple yet engaging quiz application built with Flutter, designed to test your
 
 Here's a glimpse of the Quizzler app in action:
 
-<img width="1362" height="723" alt="quizzler" src="https://github.com/user-attachments/assets/532725db-a62f-4b44-bc5a-9772654ca76b" />
+<img width="400" alt="quizzler" src="https://github.com/user-attachments/assets/532725db-a62f-4b44-bc5a-9772654ca76b" /> | <img width="400" alt="quizzler1" src="https://github.com/user-attachments/assets/780e5674-638f-4f94-849f-e249380592f5" /> |
+
 
 ## 🚀 Getting Started
 
