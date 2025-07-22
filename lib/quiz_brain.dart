@@ -4,7 +4,7 @@ class QuizBrain {
 
   int _questionNumber = 0;
 
-  List<Question> _questionsBank = [
+  final List<Question> _questionsBank = [
     Question(q: 'pakistan is not n independent country', a: false),
     Question(q:'Some cats are actually allergic to humans', a: true),
     Question(q: 'You can lead a cow down stairs but not up stairs.', a:  false),
